@@ -1,0 +1,11 @@
+{
+    "assemblyName": "Saki",
+    "converterClass": "Virinco.WATS.Converter.Saki.SakiXMLConverter",
+    "displayName": "Saki AOI Converter",
+    "description": "Converts Saki AOI XML test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.xml",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\Saki",
+    "postProcessAction": "Archive",
+    "productGuid": "c8bd0c69-aa3c-6dd7-2ea2-0b250e5321b5"
+}
